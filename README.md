@@ -1,7 +1,7 @@
 # CodeAlpha Financial Health Dashboard 📊
 
 An interactive **Financial Health Dashboard** built in **Power BI**, developed as part of my **Power BI Internship with [CodeAlpha](https://www.codealpha.tech)**.
-
+![Dashboard preview](dashboard.png)
 ## 🎯 Objective
 Analyze an organization's financial performance with real-time insights — tracking sales, profitability trends, and cost structure to support data-driven business decisions.
 
